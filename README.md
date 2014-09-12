@@ -1,0 +1,1 @@
+A simple batch file to implement an FFMPEG command after recursively searching for .mp4 files. New method of DOS filename manipulation.
